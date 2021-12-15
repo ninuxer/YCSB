@@ -16,7 +16,7 @@ permissions and limitations under the License. See accompanying
 LICENSE file.
 -->
 
-YCSB
+YCSB NoSQL压测工具
 ====================================
 [![Build Status](https://travis-ci.org/brianfrankcooper/YCSB.png?branch=master)](https://travis-ci.org/brianfrankcooper/YCSB)
 
